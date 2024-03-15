@@ -28,11 +28,11 @@ Computes combined spectrograms, by applying either the time-causal analogue of t
 
 The current focus of code is with regard to auditory spectrograms. With minor modifications, the approach is, however, also applicable to computing spectrograms for other application domains.
 
-For examples of how to use these functions for computing different types of time-causal or non-causal spectrograms, see the enclosed Jupyter notebook 
+For examples of how to use these functions for computing different types of time-causal or non-causal spectrograms, please see the enclosed Jupyter notebook 
 [spectrogramdemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/spectrogramdemo.ipynb).
 
 
-## Installation
+## Installation:
 
 This package is available 
 through pip and can installed by
