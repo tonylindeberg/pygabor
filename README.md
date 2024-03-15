@@ -37,6 +37,22 @@ features, please see the enclosed Jupyter notebook
 [spectrogramdemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/spectrogramdemo.ipynb).
 
 
+## Installation
+
+This package is available 
+through pip and can installed by
+
+```bash
+pip install pygabor
+```
+
+This package can also be downloaded directly from GitHub:
+
+```bash
+git clone git@github.com:tonylindeberg/pygabor.git
+```
+
+
 ## Dependencies:
 
 This package depends on the 
