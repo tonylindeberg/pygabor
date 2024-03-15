@@ -8,8 +8,7 @@ The time-causal analogue of the Gabor transform is obtained by choosing the temp
 
 Notably, while the current code is written for offline experiments, the underlying approach is fully time-causal and time-recursive, and should therefore be highly suitable for real-time applications.
 
-For examples of how to apply these functions for computing scale-space
-features, please see the enclosed Jupyter notebook 
+For examples of how to apply these functions for computing time-causal time-frequency transforms, please see the enclosed Jupyter notebook 
 [timecausgabordemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/timecausgabordemo.ipynb).
 
 
@@ -19,8 +18,7 @@ The discrete analogue of the Gabor transform is obtained by choosing the tempora
 
 For reference purpose, this package also provides a possibility to choose the temporal window function as the sampled Gaussian kernel, which may otherwise constitute the most commonly used choice for discretizing the continuous Gaussian kernel
 
-For examples of how to apply these functions for computing scale-space
-features, please see the enclosed Jupyter notebook 
+For examples of how to apply these functions for computing non-causal time-frequency transforms, please see the enclosed Jupyter notebook 
 [discgabordemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/discgabordemo.ipynb).
 
 
