@@ -40,9 +40,9 @@ features, please see the enclosed Jupyter notebook
 ## Dependencies:
 
 This package depends on the 
-[pyscsp](https://github.com/tonylindeberg/pyscsp).
+[pyscsp](https://github.com/tonylindeberg/pyscsp)
 and 
-[pytempscsp](https://github.com/tonylindeberg/pytempscsp).
+[pytempscsp](https://github.com/tonylindeberg/pytempscsp)
 packages, for performing the temporal smoothing in the time-frequency transforms. 
 
 The pyscsp and pytempscsp packages are available at PyPi and at GitHub:
