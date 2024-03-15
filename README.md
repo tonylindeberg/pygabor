@@ -10,7 +10,7 @@ Notably, while the current code is written for offline experiments, the underlyi
 
 For examples of how to apply these functions for computing scale-space
 features, please see the enclosed Jupyter notebook 
-[timecausgabordemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/timecausdemo.ipynb).
+[timecausgabordemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/timecausgabordemo.ipynb).
 
 
 ## discgabor.py: Primitives for computing the discrete analogue of the Gabor transform
