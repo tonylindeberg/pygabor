@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygabor"
-version = "0.9.2"
+version = "0.9.3"
 description = "Gabor transform toolbox for Python."
 authors = ["Tony Lindeberg <tony@kth.se>"]
 license = "MIT"
