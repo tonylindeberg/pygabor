@@ -1,4 +1,4 @@
-Copyright (2023) Tony Lindeberg
+Copyright (2024) Tony Lindeberg
 
 This code is shared under Creative Commons Attribution 4.0 license, see https://creativecommons.org/licenses/by/4.0/.
 
