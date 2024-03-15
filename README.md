@@ -48,7 +48,7 @@ packages, for performing the temporal smoothing in the time-frequency transforms
 The pyscsp and pytempscsp packages are available at PyPi and at GitHub:
 
 ```bash
-pip install 'pyscsp[torch]'
+pip install 'pyscsp'
 ```
 
 ```bash
