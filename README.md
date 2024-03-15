@@ -26,12 +26,9 @@ For examples of how to apply these functions for computing non-causal time-frequ
 
 Computes combined spectrograms, by applying either the time-causal analogue of the Gabor transform or the discrete analogue of the Gabor transform over a set of logarithmically distributed frequencies.
 
-For examples of how to use these functions for computing different types of time-causal or non-causal spectrograms, see the enclosed Jupyter notebook spectrogramdemo.ipynb.
-
 The current focus of code is with regard to auditory spectrograms. With minor modifications, the approach is, however, also applicable to computing spectrograms for other application domains.
 
-For examples of how to apply these functions for computing scale-space
-features, please see the enclosed Jupyter notebook 
+For examples of how to use these functions for computing different types of time-causal or non-causal spectrograms, see the enclosed Jupyter notebook 
 [spectrogramdemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/spectrogramdemo.ipynb).
 
 
