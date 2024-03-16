@@ -10,7 +10,7 @@ repository = "https://github.com/tonylindeberg/pygabor"
 [tool.poetry.dependencies]
 python="^3.7"
 pyscsp="^0.9.22"
-pytempscsp="^0.9.3"
+pytempscsp="^0.9.5"
 
 [project.optional-dependencies]
 
