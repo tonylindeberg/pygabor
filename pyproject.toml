@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygabor"
-version = "0.9.4"
+version = "0.9.5"
 description = "Gabor transform toolbox for Python."
 authors = ["Tony Lindeberg <tony@kth.se>"]
 license = "MIT"
@@ -10,7 +10,7 @@ repository = "https://github.com/tonylindeberg/pygabor"
 [tool.poetry.dependencies]
 python="^3.7"
 pyscsp="^0.9.22"
-pytempscsp="^0.9.5"
+pytempscsp="^0.9.3"
 
 [project.optional-dependencies]
 
