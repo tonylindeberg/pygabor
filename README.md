@@ -11,6 +11,11 @@ Notably, while the current code is written for offline experiments, the underlyi
 For examples of how to apply these functions for computing time-causal time-frequency transforms, please see the enclosed Jupyter notebook 
 [timecausgabordemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/timecausgabordemo.ipynb).
 
+For more technical descriptions about the respective functions, please see
+the documentation strings for the respective functions in the source code
+in [timecausgabor.py](https://github.com/tonylindeberg/pygabor/blob/main/pygabor/timecausgabor.py).
+
+
 
 ## discgabor.py: Primitives for computing the discrete analogue of the Gabor transform
 
@@ -21,6 +26,10 @@ For reference purpose, this package also provides a possibility to choose the te
 For examples of how to apply these functions for computing non-causal time-frequency transforms, please see the enclosed Jupyter notebook 
 [discgabordemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/discgabordemo.ipynb).
 
+For more technical descriptions about the respective functions, please see
+the documentation strings for the respective functions in the source code
+in [discgabor.py](https://github.com/tonylindeberg/pygabor/blob/main/pygabor/discgabor.py).
+
 
 ## spectrogram.py: Functions for computing spectrograms based on the above time-frequency analysis methods
 
@@ -30,6 +39,10 @@ The current focus of code is with regard to auditory spectrograms. With minor mo
 
 For examples of how to use these functions for computing different types of time-causal or non-causal spectrograms, please see the enclosed Jupyter notebook 
 [spectrogramdemo.ipynb](https://github.com/tonylindeberg/pygabor/blob/main/spectrogramdemo.ipynb).
+
+For more technical descriptions about the respective functions, please see
+the documentation strings for the respective functions in the source code
+in [spectrogram.py](https://github.com/tonylindeberg/pygabor/blob/main/pygabor/spectrogram.py).
 
 
 ## Installation:
