@@ -19,7 +19,7 @@ in [timecausgabor.py](https://github.com/tonylindeberg/pygabor/blob/main/pygabor
 
 ## discgabor.py: Primitives for computing the discrete analogue of the Gabor transform
 
-The discrete analogue of the Gabor transform is obtained by choosing the temporal window function in a time-frequency analysis as the discrete analogue of the Gaussain kernel, which provides a theoretically well-founded way to discretize the continuous Gaussian kernel in such a way that the underlying theoretical properties, that make the Gaussian kernel a canonical choice over a non-causal temporal domain, do also hold after the discretization
+The discrete analogue of the Gabor transform is obtained by choosing the temporal window function in a time-frequency analysis as the discrete analogue of the Gaussian kernel, which provides a theoretically well-founded way to discretize the continuous Gaussian kernel in such a way that the underlying theoretical properties, that make the Gaussian kernel a canonical choice over a non-causal temporal domain, do also hold after the discretization
 
 For reference purpose, this package also provides a possibility to choose the temporal window function as the sampled Gaussian kernel, which may otherwise constitute the most commonly used choice for discretizing the continuous Gaussian kernel
 
