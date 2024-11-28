@@ -100,8 +100,9 @@ Lindeberg (2023) "A time-causal and time-recursive scale-covariant scale-space r
 ([Open Access](http://dx.doi.org/10.1007/s00422-022-00953-6))
 (Contains an extensive treatment of the time-causal limit kernel, with its relation to defining a temporal scale-space representation at multiple temporal scales, over a time-causal temporal domain.)
 
-Lindeberg (2023) "Discrete approximations of Gaussian smoothing and Gaussian derivatives", arXiv preprint arXiv:2311.11317
-([Preprint](https://arxiv.org/abs/2311.11317))
+Lindeberg (2023) "Discrete approximations of Gaussian smoothing and Gaussian derivatives",  Journal of Mathematical Imaging and Vision,
+66(5): 759-800.
+([Open Access](https://doi.org/10.1007/s10851-024-01196-9))
 (Contains an extensive treatment of the topic of discretizing the continuous Gaussian kernel over a non-causal discrete domain.)
 
 Lindeberg (1990) "Scale space for discrete signals", IEEE Transactions on Pattern Analysis and Machine Intelligence 12(3): 234--254.
