@@ -90,7 +90,7 @@ git clone git@github.com:tonylindeberg/pytempscsp.git
 ## References:
 
 Lindeberg (2023) "A time-causal and time-recursive analogue of the
-Gabor transform", IEEE Transactions on Information Theory,
+Gabor transform", IEEE Transactions on Information Theory, 2024
 ([OpenAccess](https://doi.org/10.1109/TIT.2024.3507879)),
 preprint at arXiv:2308.14512.
 ([Preprint](https://arxiv.org/abs/2308.14512))
