@@ -89,11 +89,9 @@ git clone git@github.com:tonylindeberg/pytempscsp.git
 
 ## References:
 
-Lindeberg (2024) "A time-causal and time-recursive analogue of the
-Gabor transform", *IEEE Transactions on Information Theory*,
-([OpenAccess](https://doi.org/10.1109/TIT.2024.3507879)),
-preprint at arXiv:2308.14512.
-([Preprint](https://arxiv.org/abs/2308.14512))
+Lindeberg (2025) "A time-causal and time-recursive analogue of the
+Gabor transform", *IEEE Transactions on Information Theory*, 71(2): 1450-1480.
+([OpenAccess](https://doi.org/10.1109/TIT.2024.3507879))
 (Defines and describes the time-causal analogue of the Gabor transform, based on using the time-causal limit kernel as the temporal window function for performing time-frequency analysis. A discrete analogue of the Gabor transform is also defined, by discretizing the continuous Gaussian kernel in the regular Gabor transform using the discrete analogue of the Gaussian kernel.)
 
 Lindeberg (2023) "A time-causal and time-recursive scale-covariant scale-space representation of temporal signals and past time", *Biological Cybernetics*, 117(1-2): 21-59. 
